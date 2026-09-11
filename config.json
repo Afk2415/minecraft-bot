@@ -1,8 +1,8 @@
 
 #Dummy coinfig List 
 {
-	"ip":"vimalspidy333.aternos.me", #replace this with  your aternos server ip
-	"port": "25565", # And dont forget to replace the port
-	"name": "afkbot1", #name of the bot
+	"ip":"ZonaryMikMik.aternos.me", #replace this with  your aternos server ip
+	"port": "17524", # And dont forget to replace the port
+	"name": "Shentsyyy", #name of the bot
 	"auto-night-skip":"true" 
 }
